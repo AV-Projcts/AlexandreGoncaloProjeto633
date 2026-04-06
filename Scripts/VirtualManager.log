@@ -1,0 +1,12 @@
+06-04-2026 01:57:46 - INFO: Snapshot 'TesteSnapshot' criado para 'BoasVM'.
+06-04-2026 01:58:15 - INFO: VM 'BoasVM' restaurada para 'TesteSnapshot'.
+06-04-2026 01:59:05 - INFO: VM 'BoasVM' exportada.
+06-04-2026 02:00:16 - INFO: VM 'pfSenseTest' criada com 2048 MB RAM.
+06-04-2026 02:15:40 - INFO: Snapshot 'PfSenseTest-BaseInstall' criado para 'pfSenseTest'.
+06-04-2026 02:16:22 - INFO: VM 'pfSenseTest' exportada.
+06-04-2026 09:59:15 - INFO: Snapshot 'Teste2-Snap' criado para 'Teste2'.
+06-04-2026 10:00:15 - INFO: VM 'Teste2' exportada.
+06-04-2026 10:34:23 - INFO: VM 'Teste1033' criada com 2048 MB RAM.
+06-04-2026 10:35:31 - INFO: Snapshot 'Teste-Snap1' criado para 'Teste1033'.
+06-04-2026 10:36:10 - INFO: VM 'Teste1033' exportada.
+06-04-2026 10:36:46 - INFO: VM 'Teste1033' restaurada para 'Teste-Snap1'.

@@ -1,16 +1,16 @@
 ﻿# Filesystem
 do {
     cls
-    Write-Host ".+=================================================+." -ForegroundColor Cyan
-    Write-Host "               2. Sistema de Ficheiros               " -ForegroundColor Yellow
-    Write-Host ".+=================================================+." -ForegroundColor Cyan
-    Write-Host "   1. Utilização dos Discos                          "
-    Write-Host "   2. Criação Automática de Diretório                "
-    Write-Host "   3. Gestão de Permissões de Ficheiros              "
-    Write-Host "   4. Identificação de Ficheiros Grandes (>100MB)    "
-    Write-Host "   5. Auditoria de Acesso a Ficheiros                "
-    Write-Host "    Q. Voltar ao menu                                " -ForegroundColor Red
-    Write-Host ".+=================================================+." -ForegroundColor Cyan
+    Write-Host ".+================================================+." -ForegroundColor Cyan
+    Write-Host "                Sistema de Ficheiros                " -ForegroundColor Yellow
+    Write-Host ".+================================================+." -ForegroundColor Cyan
+    Write-Host "   1. Utilização dos Discos                         "
+    Write-Host "   2. Criação Automática de Diretório               "
+    Write-Host "   3. Gestão de Permissões de Ficheiros             "
+    Write-Host "   4. Identificação de Ficheiros Grandes (>100MB)   "
+    Write-Host "   5. Auditoria de Acesso a Ficheiros               "
+    Write-Host "    Q. Voltar ao menu                               " -ForegroundColor Red
+    Write-Host ".+================================================+." -ForegroundColor Cyan
     $escolha = Read-Host " --> "
     
     switch ($escolha) {
@@ -181,11 +181,7 @@ do {
         }
 
         {$_ -in "q", "quit"} {Return}
-
-        default {
-                Write-Host "! Opção inválida, escolhe entre |1-5 ou Q|" -ForegroundColor Red
-                Start-Sleep -Milliseconds 1200
-        }
+        default {Write-Host "! Opção inválida, escolhe entre |1-5 ou Q (quit)|" -ForegroundColor Red; Start-Sleep -Milliseconds 1200}
     }
 
 } while ($true)

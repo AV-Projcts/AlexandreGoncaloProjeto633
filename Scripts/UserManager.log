@@ -1,0 +1,25 @@
+03-04-2026 10:51:26 - INFO: User 'Boas2' criado.
+03-04-2026 10:51:37 - INFO: User 'Boas2' removido.
+03-04-2026 11:13:22 - INFO: User 'Boas2' criado.
+03-04-2026 11:25:37 - INFO: User '' removido.
+03-04-2026 11:30:15 - INFO: User 'Boas3' criado.
+03-04-2026 11:30:50 - INFO: User 'Boas3' removido.
+03-04-2026 12:15:56 - INFO: User 'Boas' desativado.
+03-04-2026 12:16:52 - INFO: User 'Boas' ativado.
+03-04-2026 12:54:51 - INFO: Grupo 'BoasGroup' criado.
+03-04-2026 12:55:28 - INFO: Grupo 'BoasGroup' removido.
+06-04-2026 10:04:35 - INFO: User 'Boas3' criado.
+06-04-2026 10:04:52 - INFO: User 'Boas3' removido.
+06-04-2026 10:05:07 - INFO: Grupo 'BoasGroup' criado.
+06-04-2026 10:05:25 - INFO: Grupo 'BoasGroup' removido.
+06-04-2026 10:05:46 - INFO: Grupo 'BoasBoasGroup' criado.
+06-04-2026 10:07:02 - INFO: Utilizador 'Boas' adicionado a 'BoasBoasGroup'.
+06-04-2026 10:11:11 - INFO: Utilizador 'Boas' removido de 'BoasBoasGroup'.
+06-04-2026 10:23:50 - INFO: User 'BoasBoas' criado.
+06-04-2026 10:24:17 - INFO: User 'BoasBoas' removido.
+06-04-2026 10:24:40 - INFO: User 'Boas' desativado.
+06-04-2026 10:24:54 - INFO: User 'Boas' ativado.
+06-04-2026 10:25:09 - INFO: Grupo 'BoasTeste' criado.
+06-04-2026 10:25:39 - INFO: Grupo 'BoasTeste' removido.
+06-04-2026 10:26:18 - INFO: Utilizador 'Boas' adicionado a 'BoasTeste'.
+06-04-2026 10:26:35 - INFO: Utilizador 'Boas' removido de 'BoasTeste'.

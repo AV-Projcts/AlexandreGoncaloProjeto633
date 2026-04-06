@@ -23,3 +23,7 @@
 02-04-2026 16:45:12 - ALERTA: Ficheiros maiores que 100MB encontrados em Z:
 02-04-2026 17:07:29 - AVISO: Permissões de '' alteradas em 'D:'
 02-04-2026 17:19:18 - AVISO: Permissões de 'Boas' alteradas para 'Read & Write' em 'D:'
+03-04-2026 08:36:07 - ALERTA: Ficheiros maiores que 100MB encontrados em D:
+06-04-2026 10:18:51 - INFO: Diretório criado em B:\test
+06-04-2026 10:19:35 - AVISO: Permissões de 'Boas' alteradas para 'Read & Write' em 'B:\test'
+06-04-2026 10:20:07 - ALERTA: Ficheiros maiores que 100MB encontrados em D:
